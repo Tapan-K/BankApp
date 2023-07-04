@@ -1,4 +1,4 @@
-<h1>Simple Banking Application</h1>
+<h1> Banking Application</h1>
 
 <p>This is a basic Java application that simulates a simple banking system. It allows users to perform operations such as checking their account balance, making deposits, making withdrawals, and exiting the application.</p>
 
