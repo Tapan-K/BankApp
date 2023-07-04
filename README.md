@@ -1,4 +1,5 @@
 Simple Banking Application
+
 This is a basic Java application that simulates a simple banking system. It allows users to perform operations such as checking their account balance, making deposits, making withdrawals, and exiting the application.
 
 Features
