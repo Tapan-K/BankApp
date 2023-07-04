@@ -43,6 +43,7 @@
     }
   </style>
 </head>
+<h1>Ignore the above CSS code ..</h1>
 <body>
   <h1>Simple Banking Application</h1>
 
