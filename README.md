@@ -80,6 +80,12 @@
     </ol>
   </div>
 
+  <h3Contributing</h3>
+  <p>Contributions are welcome! If you have any suggestions or improvements for the project, please open an issue or submit a pull request.</p>
+
+  <h3License</h3>
+  <p>This project is licensed under the MIT License.</p>
+
   <div class="example">
     <h2>Example &#128293;</h2>
     <pre>
