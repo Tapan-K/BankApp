@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Simple Banking Application</title>
+  <title>Stylizing the Read me File</title>
   <style>
     body {
       font-family: Arial, sans-serif;
