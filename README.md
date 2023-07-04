@@ -45,7 +45,7 @@
 </head>
 <h1>Ignore the above CSS code ..</h1>
 <body>
-  <h1>Simple Banking Application</h1>
+  <h1> Banking Application (console Based)</h1>
 
   <div class="feature">
     <h2>Features &#128161;</h2>
